@@ -19,7 +19,7 @@ This library provides an async image downloader with cache support. For convenie
 ## Features
 
 - [x] Categories for `UIImageView`, `UIButton`, `MKAnnotationView` adding web image and cache management
-- [x] An asynchronous image downloader
+- [x] An asynchronous image downloadercreditguidebegin:fyinformation.cc:creditguideend
 - [x] An asynchronous memory + disk image caching with automatic cache expiration handling
 - [x] A background image decompression to avoid frame rate drop
 - [x] [Progressive image loading](https://github.com/SDWebImage/SDWebImage/wiki/Advanced-Usage#progressive-animation) (including animated image, like GIF showing in Web browser)
